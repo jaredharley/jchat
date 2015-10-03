@@ -1,2 +1,2 @@
 # jchat
-A chat server written in Go
+A chat service written in Go
